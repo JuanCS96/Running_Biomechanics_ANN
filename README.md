@@ -24,4 +24,4 @@ Recurrent Neural Networks to predict ground reaction forces and lower limb net j
 See the example [Python code](https://github.com/JuanCS96/Running_Biomechanics_ANN/blob/main/RNN_Predictions.py) to perform predictions.
 
 If you use this code, please cite the article associated with this study:
-- Cordero-Sánchez J, Bazuelo-Ruiz B, Pérez-Soriano P, Serrancolí G. Comparison of Ground Reaction Forces and Net Joint Moment Predictions: Skeletal Model Versus Artificial Neural Network-Based Approach. J Appl Biomech. 2025 Apr 9;41(4):290-303. [doi: 10.1123/jab.2024-0113](https://doi.org/10.1123/jab.2024-0113)
+- Cordero-Sánchez J, Bazuelo-Ruiz B, Pérez-Soriano P, Serrancolí G. Comparison of Ground Reaction Forces and Net Joint Moment Predictions: Skeletal Model Versus Artificial Neural Network-Based Approach. J Appl Biomech. 2025 Apr 9;41(4):290-303.  [doi: 10.1123/jab.2024-0113](https://doi.org/10.1123/jab.2024-0113)
